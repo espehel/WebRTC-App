@@ -10,6 +10,7 @@
     "lodash": "^2.4.1",
     "react": "^0.13.3",
     "webrtc": "^1.14.1",
+    "webrtc-adapter": "0.0.7",
     "ws": "^0.4.32"
   },
   "devDependencies": {
